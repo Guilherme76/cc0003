@@ -1,10 +1,21 @@
--200 A.C. -> Máquina de Anticítera. 
+-200 a.c -> Maquina de Anticítera:
+            Instrumento de bronze corrido, feito há mais de 2 mil anos no período em que o Império Romano começou a conquistar as colônias gregaqs no Mediterrâneo.O primeiro a analisar em detalhes os 82 fragmentos recuperados foi o físico inglês Derek John de Solla Price. Ele começou o trabalho nos anos 1950 e em 1971, juntamente com o físico nuclear grego Charalampos Karakalos, fez imagens das peças com raios-X e raios gama.Eles descobriram que o mecanismo era extremamente complexo, com 27 rodas de engrenagem em seu interior. Os especialistas conseguiram datar algumas outras peças com precisão, entre os anos 70 A.C. e 50 A.C.
 
 -1642 -> A primeira calculadora do mundo baseado em seus algoritmos foi criada. Ela foi criada por Pascal, que desejava desenvolver uma máquina que realizasse as 4 operações básicas da matemática. Porém, ele só conseguir fazer uma capaz de somar e subtratir. Ela funcionava através de rodas interligadas que giravam durante a realização dos cálculos para obter os resultados. A calculadora de Pascal foi uma das primeiras coisas que esboçavam a computação: era baseada em algoritmos, realizava cálculos. Apesar de ser bastante primitiva, foi muito importante.
 
+-1833 -> Em 1833, Michael Faraday percebeu que a resistência de amostras de sulfeto de prata diminuía quando elas eram aquecidas. A partir disso, outros cientistas observaram comportamentos conectados a efeitos semicondutores, como Edmond Becquerel e Willoughby Smith. No entanto, foi só em 1874 que Karl Ferdinand Braun avançou nessa tecnologia.    
+
 -1847 -> O matemático inglês George Boole criou o primeiro sistema binário, o que teve grande relevância possibilitando a criação de processadores que tranformavam zeros e uns em informação. Um exemplo desse tipo de processador foi criado pelo Herman Hollerith que criou o processador de dados eletromecânico conhecido como cartão perfurado e fundou a empresa percursora da IBM.
 
+-1894 -> Em 1894, o cientista indiano Jagadish Chandra Bose foi o primeiro a usar um cristal para detectar sinais de rádio. Esse novo componente era muito mais prático para as telecomunicações, que então utilizavam diodos de Tubos de Vácuo (Válvulas Diodos).
+
+-1903 -> Greenleaf Whittier Pickard criou em 1903 o primeiro detector feito de silício. Até então, esse novo componente era chamado de "Cat's Whisker", que significa "Bigode de Gato" em uma tradução livre. Vemos que o diodo era usado mais como detector de sinais de rádio do que retificador, uma vez que essa aplicação era muito mais significativa para a época. 
+
 -1945 -> Segundo o Computer History Museum, o inventor alemão Konrad Zuse começou a desenvolver o Plan Calculus em 1945 - a primeira linguagem de programação que utilizava algoritmos - e criou também o primeiro computador programável durante os anos 40. A matemática Grace Hopper também começava a trabalhar em uma linguagem de programção baseada em palavras que foi chamada inicialmente de "A-0", mas, mais tarde, teve seu nome mudado para COBOL. Até hoje, utiliza-se linguagens que foram inspiradas pelos modelos do COBOL, utilizando palavras como comandos e sendo baseadas em algoritmos.
+
+1947 -> Três  cientistas  do  Laboratório  da  Bell  Telefonia, W. Shockley, W. Brattain e J. Bardeen, desenvolveram sua nova invenção sobre o que  seria  um  protótipo  do  transistor.
+
+-1956 -> O primeiro HD foi lançado pela IBM no mercado. O primeiro computador com disco rígido de 5MB de memoria.Para a época isso foi considerado um feito, apesar das dimensões da extraordinária máquina: só o disco rígido pesava nada menos que uma tonelada.Ele era parte integrante do computador IBM 305 RAMAC e na verdade não eram 5MB e sim 4,7MB, pois trabalhava com caracteres de 7bits e não 8bits.
 
 -1960 -> Durante a Guerra Fria, pesquisas militares trabalhavam em meios de comunicação e transferência de informação eficientes. Dessa forma surgiu a forma mais primitiva da Internet - uma rede de computadores chamada ARPANET, inspirado por um projeto do pesquisados Leonard Kleinrock do MIT. O primeiro "nó" da Internet foi instalado em uma universidade em Los Angeles e expandido ligando computadores em quatro universidades na Califórnia e Utah.
 
